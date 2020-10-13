@@ -1,14 +1,45 @@
 ---
 layout: post
-title: Releasing Not Pure Poole v0.1.0
-author: Songzi Vong
+title: Drugs and Things
+author: Riya
 tags:
-- jekyll theme
-- jekyll
-date: 2020-10-01 13:56 +0800
+- drugs
+- acene
+date: 2020-10-13 13:56 +0800
 ---
-The Jekyll theme **Not Pure Poole** v0.1.0 was released!
 
-Not Pure Poole is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
-
-For more information about this theme, you can read the [README](https://github.com/vszhub/not-pure-poole/blob/master/README.md) file.
+<table style="height: 117px;" width="663">
+<tbody>
+<tr>
+<td style="width: 158px;">Name</td>
+<td style="width: 159px;">Country</td>
+<td style="width: 159px;">Age</td>
+<td style="width: 159px;">Sex</td>
+</tr>
+<tr>
+<td style="width: 158px;">xxxx</td>
+<td style="width: 159px;">sss</td>
+<td style="width: 159px;">adcad</td>
+<td style="width: 159px;">acsda</td>
+</tr>
+<tr>
+<td style="width: 158px;">yyy</td>
+<td style="width: 159px;">sss</td>
+<td style="width: 159px;">adcas</td>
+<td style="width: 159px;">acca</td>
+</tr>
+<tr>
+<td style="width: 158px;">zzz</td>
+<td style="width: 159px;">asdcsdadc</td>
+<td style="width: 159px;">ascad</td>
+<td style="width: 159px;">F</td>
+</tr>
+<tr>
+<td style="width: 158px;">&nbsp;</td>
+<td style="width: 159px;">&nbsp;</td>
+<td style="width: 159px;">&nbsp;</td>
+<td style="width: 159px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>

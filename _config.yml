@@ -1,6 +1,6 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: TITLE
+description: SUB TITLE
 url: https://github.com/RiaMedInfo/my-blog
 avatar: /avatar.jpeg
 paginate: 5
@@ -27,33 +27,13 @@ exclude:
   - scripts/
   - not-pure-poole.gemspec
 
-# Optimize Jekyl SEO Tag
-# twitter:
-#   username: vszhub
-#   card: summary
-# logo: logo.png
-# social:
-#   name: Songzi Vong
-#   links:
-#     - https://twitter.com/vszhub
-#     - https://github.com/vszhub
-# google_site_verification: xxxxx
 lang: en
 
 sass:
   sass_dir: _sass
   style: :compressed
 
-# Options
-
-# Replace this value and uncomment to enable Google Analytics tracking
-# google_analytics: UA-000000-0
-
-# Replace this value and uncomment to enable Disqus
-# disqus: xxxxxx
-
-# Specify the author for blog posts
 author:
   name: Riya
   url: https://github.com/RiaMedInfo
-  email: vszhub@gmail.com
+  email: sotiriastriou@gmail.com
