@@ -12,6 +12,7 @@
 3. Open terminal run the following command
 
    - cd Downloads/my-blog
+   - ```git pull```
    - ```git add .```
    - ```git commit -m "done"```
    - ```git push```
