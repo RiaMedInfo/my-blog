@@ -1,6 +1,6 @@
 # Setup
-title: TITLE
-description: SUB TITLE
+title: MediCoPrism
+description: <p>A blog to explore different scientific perspectives on medical topics and work as a <strong><em>prism&nbsp;</em></strong>of knowledge.</p>
 url: https://github.com/RiaMedInfo/my-blog
 avatar: /avatar.jpeg
 paginate: 5
@@ -25,7 +25,7 @@ exclude:
   - LICENSE.md
   - README.md
   - scripts/
-  - not-pure-poole.gemspec
+  - riya.gemspec
 
 lang: en
 
