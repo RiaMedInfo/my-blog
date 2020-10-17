@@ -5,10 +5,10 @@ description: |
               perspectives on medical topics and work as a
               <strong><em>prism&nbsp;</em></strong>of knowledge.</p>
 url: https://github.com/RiaMedInfo/my-blog
-avatar: /avatar.jpeg
+avatar: images/avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /images/bg.jpeg
 
 # Gems
 plugins:
