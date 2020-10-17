@@ -44,7 +44,18 @@ toc:  true
   
 10. After couple of minuted reload the blog page
 
+---------------------------------------------------
+To EDIT already existing file 
 
+1. save it by press ctrl + s 
+
+2. Open terminal/command prompt/ black box run the following command one by one 
+
+   - ```cd Downloads/my-blog```
+   - ```git pull```
+   - ```git add .```
+   - ```git commit -m "done"```
+   - ```git push```
 
 ---------------------------------------------------
 For developer 
