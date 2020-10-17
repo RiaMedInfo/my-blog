@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Antibiotics: Existing agents, superbugs, and new antibiotics.
+title: Antibiotics-Existing agents, superbugs, and new antibiotics.
 date: 2020-09-15 23:18 +0800
 last_modified_at: 2020-10-01 01:08:25 +0800
 tags: [drug, treatments, antibiotics, resistance, superbugs]
