@@ -1,9 +1,11 @@
-ayout: post 
+---
+layout: post 
 title: Some interesting facts about the Lysosomal Storage Diseases (LSD).
 date: 2020-09-29 23:18 +0800 
 last_modified_at: 2020-10-01 01:08:25 +0800 
 tags: [rare disorders, LSDs disorders, treatments, lysosome, enzyme deficiency] 
 toc: true
+---
 <div class="interface-interface-skeleton__header" role="region" aria-label="Editor top bar" tabindex="-1">
 <div class="edit-post-header">
 <h1 class="edit-post-header__settings">Some interesting facts about the Lysosomal Storage Diseases (LSD).</h1>
