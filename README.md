@@ -17,6 +17,7 @@
 5. Copy paste the following lines in the beginning of the new file created 
     and make changes as per article
   
+```
 ---
 layout: post
 title: Welcome
@@ -25,6 +26,7 @@ last_modified_at: 2020-10-01 01:08:25 +0800
 tags: [drug, treatments, acne]
 toc:  true
 ---
+```
      
 6. After --- this symbol you can copy your article from https://htmlg.com/html-editor/
   

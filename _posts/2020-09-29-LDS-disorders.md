@@ -8,7 +8,6 @@ toc: true
 ---
 <div class="interface-interface-skeleton__header" role="region" aria-label="Editor top bar" tabindex="-1">
 <div class="edit-post-header">
-<h1 class="edit-post-header__settings">Some interesting facts about the Lysosomal Storage Diseases (LSD).</h1>
 <div class="edit-post-header__settings"></div>
 </div>
 </div>
