@@ -6,7 +6,6 @@ last_modified_at: 2020-10-01 01:08:25 +0800
 tags: [robot, treatments, chronic pain, surgery]
 toc:  true
 ---
-<p><u>An overview of Robot-assisted surgery</u></p>
 <p>The robot-assisted surgery is a type of surgery performed by using mechanical arms with surgical instruments attached to them as opposed to the traditional surgeries. This permits the doctor to follow MIS (Minimally Invasive Surgical) procedures. The robotic surgery facilitates operations of high precision with quarter-inch incisions made by miniaturised surgical instruments, as compared with the traditional surgery during which the surgeon operates through large incisions (2). Although, the robotic surgery was first introduced in orthopaedics, neurosurgery, and cardiac surgery, it became so popular only after its use in urology and more specifically in prostate surgeries. Nowadays, it is also used in other types of operations such as general surgery, gynaecology, head and neck surgeries (1).</p>
 <p><u>The different types of robotic surgery</u></p>
 <p>The robotic surgeries can be classified into three main categories based on the control the surgeon has on the robotic system. These are the following:</p>
