@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Learning how to live with acne.
-What is acne, how to deal with it and lifestyle improvement. 
+title: Learning how to live with acne.What is acne, how to deal with it and lifestyle improvement. 
 date: 2020-09-17 23:18 +0800
 last_modified_at: 2020-10-01 01:08:25 +0800
 tags: [drug, treatments, acne,diet, photodynamic treatment, light-based therapies]
