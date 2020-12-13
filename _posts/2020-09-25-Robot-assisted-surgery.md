@@ -11,7 +11,7 @@ toc:  true
 <p>The robotic surgeries can be classified into three main categories based on the control the surgeon has on the robotic system. These are the following:</p>
 <ul>
 <li>Supervisory-Controlled Systems are the most automated, but they still need human control to operate. The main disadvantage of this type is that it cannot be adjusted once it is initiated allowing no errors to be made (hip and knee replacement).</li>
-<li>Tele Surgical Systems also known as remote surgery during which the doctor moves the surgical arms instead of them working automatically accordingly to a program pre-set.</li>
+<li>Tele Surgical Systems also known as remote surgery during which the doctor moves the surgical arms instead of them working automatically according to a program pre-set.</li>
 <li>Shared Control Systems operate by following a program pre-set chosen by the surgeon and they are used mostly in neurosurgery and orthopaedic surgery (2).</li>
 </ul>
 <p><u>Advantages and disadvantages</u></p>
