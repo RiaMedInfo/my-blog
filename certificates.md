@@ -3,8 +3,9 @@ layout: page
 title: Certificates
 ---
 <hr>
+<a>
 <img src="https://riamedinfo.github.io/my-blog/images/certificates/cert1.jpeg"
- alt="cert1">
+ alt="cert1">Medical Wrting and Health care Communication</a>
 <hr>
 <img src="https://riamedinfo.github.io/my-blog/images/certificates/cert2.jpeg" 
 alt="cert2">
