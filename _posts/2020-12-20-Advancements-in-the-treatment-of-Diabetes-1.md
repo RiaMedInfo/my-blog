@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Advancements in the treatment of Diabetes 1.
-date: 2020-09-29 23:18 +0800
+title: Advancements in the treatment of Diabetes 1
+date: 2020-12-20 23:18 +0800
 last_modified_at: 2020-10-01 01:08:25 +0800
 tags: [drug, treatments, diabetes, insulin, loop systems, insulin analogues]
 toc:  true
@@ -27,7 +27,6 @@ toc:  true
 <p>Some patients might receive <u>combinations of insulins</u> such as 70% NPH and 20% regular insulin to avoid multiple injections per day. The downside of this treatment is that it can limit other aspects of patient&rsquo;s life such as diet and the amount of carbohydrates that can be consumed (5).</p>
 <p>&nbsp;</p>
 <p><strong>&nbsp;</strong></p>
-<p></p>
 <p><strong>New treatments for Diabetes 1</strong></p>
 <p>&nbsp;<strong>Loop systems</strong></p>
 <p>The loop systems are systems of continuous administration of insulin via a pump. They can be classified into open and closed loop systems.</p>
