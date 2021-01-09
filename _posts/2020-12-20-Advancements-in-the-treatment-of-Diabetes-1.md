@@ -27,10 +27,8 @@ toc:  true
 <p>Some patients might receive <u>combinations of insulins</u> such as 70% NPH and 20% regular insulin to avoid multiple injections per day. The downside of this treatment is that it can limit other aspects of patient&rsquo;s life such as diet and the amount of carbohydrates that can be consumed (5).</p>
 <p>&nbsp;</p>
 <p><strong>&nbsp;</strong></p>
-<p><strong>&nbsp;</strong></p>
-<p><strong>&nbsp;</strong>rates to maintain normal blood glucose levels during eating, stress, activity, fasting (9).&nbsp;</p>
 <p></p>
-<p><strong>New treatment for Diabetes 1</strong></p>
+<p><strong>New treatments for Diabetes 1</strong></p>
 <p>&nbsp;<strong>Loop systems</strong></p>
 <p>The loop systems are systems of continuous administration of insulin via a pump. They can be classified into open and closed loop systems.</p>
 <p>The <u>open loop systems</u> consist of a pump (subcutaneous insulin pump) and a Continuous Glucose Monitoring (CGM). The latter monitors the levels of blood glucose so that the patient knows whether he/ she needs to adjust the insulin released by the pump. The open loop systems are user dependent meaning that the patient needs to alter insulin infusion rates to maintain normal blood glucose levels during eating, stress, activity, fasting (9).&nbsp;</p>
