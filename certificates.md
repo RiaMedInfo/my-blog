@@ -33,6 +33,10 @@ target="_blank" alt="Informed Consent">
    Informed Consent
 </a>
 <hr>
+<a href="https://riamedinfo.github.io/my-blog/images/certificates/cert7.jpeg" 
+target="_blank" alt="Design and Interpretation of Clinical trials"> 
+   Design and Interpretation of Clinical trials (JOHNS HOPKINS UNIVERSITY)
+</a>
 <hr>
 
 
