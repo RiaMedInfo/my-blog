@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Welcome
+title: An overview of depression:Antidepressant medicines and non-pharmacological treatments. 
 date: 2020-09-29 23:18 +0800
 last_modified_at: 2020-10-01 01:08:25 +0800
-tags: [drug, treatments, acne]
+tags: [drug, treatments, depression, receptors, inhibition, depressive episodes, mania, bipolar]
 toc:  true
 ---
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
