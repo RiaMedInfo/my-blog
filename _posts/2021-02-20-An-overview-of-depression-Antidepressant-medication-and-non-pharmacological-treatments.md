@@ -1,8 +1,8 @@
 ---
 layout: post
 title: An overview of depression:Antidepressant medicines and non-pharmacological treatments. 
-date: 2020-09-29 23:18 +0800
-last_modified_at: 2020-10-01 01:08:25 +0800
+date: 2021-02-20 23:18 +0800
+last_modified_at: 2021-02-20 01:08:25 +0800
 tags: [drug, treatments, depression, receptors, inhibition, depressive episodes, mania, bipolar]
 toc:  true
 ---
@@ -16,7 +16,7 @@ toc:  true
 <li>depressed mood</li>
 <li>loss of interest or pleasure</li>
 <li>significant weight or appetite alteration</li>
-<li>(iv) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;insomnia or hyposomnia</li>
+<li>insomnia or hyposomnia</li>
 <li>psychomotor agitation or retardation</li>
 <li>fatigue or loss of energy</li>
 <li>feelings of worthlessness</li>
