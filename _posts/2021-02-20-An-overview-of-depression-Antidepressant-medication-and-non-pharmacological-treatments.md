@@ -58,7 +58,7 @@ toc:  true
 <li>Mayo Clinic. (2019). Antidepressants: Selecting one that&rsquo;s right for you. Mayo Clinic. Date Viewed: 25/07/2021. Available from: <a href="https://www.mayoclinic.org/diseases-conditions/depression/in-depth/antidepressants/art-20046273">Antidepressants: Selecting one that's right for you - Mayo Clinic</a></li>
 <li>Young, S., N. (2007). How to increase serotonin in the human brain without drugs. Journal of Psychiatry and Neuroscience. 32(6): 394&ndash;399. Available from: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2077351/">How to increase serotonin in the human brain without drugs (nih.gov)</a></li>
 <li><span> </span><span>Perreau-Linck E, Beauregard M, Gravel P, et al. In vivo measurements of brain trapping of &alpha;-[</span><span><sup>11</sup>C] methyl-L-tryptophan during acute changes in mood states.&nbsp;</span><em>J Psychiatry Neurosci</em><span>2007; 32:430-4.&nbsp;</span></li>
-<li>org [Internet]. Cologne, Germany: Institute for Quality and Efficiency in Health Care (IQWiG); 2006-. Depression: How effective are antidepressants? [Updated 2020 Jun 18]. Available from: https://www.ncbi.nlm.nih.gov/books/NBK361016/</li>
+<li>InformedHealth.org [Internet]. Cologne, Germany: Institute for Quality and Efficiency in Health Care (IQWiG); 2006-. Depression: How effective are antidepressants? [Updated 2020 Jun 18]. Available from: https://www.ncbi.nlm.nih.gov/books/NBK361016/</li>
 </ol>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
